@@ -23,6 +23,15 @@ Programs focused on importing, exploring, and preprocessing datasets using Panda
 
 ---
 
+### Assignment 3 — Exploratory Data Analysis & Visualization
+
+Analyze datasets to understand patterns, statistics, and insights using Python visualization libraries.
+
+- **[3A — Exploratory Data Analysis](assignment-3/3a.py):** Perform summary statistics and univariate analysis on a dataset and identify key observations.
+- **[3B — Data Visualization](assignment-3/3b.py):** Explore the Iris dataset using Matplotlib and Seaborn with various plots and interpret the insights.
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python
