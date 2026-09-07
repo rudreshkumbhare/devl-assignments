@@ -9,7 +9,7 @@ column_names = [
     "species"
 ]
 
-df = pd.read_csv("iris.data", names=column_names)
+df = pd.read_csv("iris.data", names=column_names)   # <-- change the path here with your own file path
 
 print("Complete DataFrame")
 print(df.to_string())

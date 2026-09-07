@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 
-df = pd.read_csv("/content/synthetic_dataset.csv")
+df = pd.read_csv("/content/synthetic_dataset.csv")  # <-- change the path here wit
 
 print("Raw data")
 print(df.head(10))
