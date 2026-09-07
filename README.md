@@ -50,14 +50,14 @@ Install the required libraries using:
 
 ## 📁 Repository Structure
 
-    DEVL-Lab-Assignments/
+    devl-ssignments/
     │
-    ├── Assignment-1/
+    ├── assignment-1/
     │   ├── 1a.py
     │   ├── 1b.py
     │   └── 1c.py
     │
-    ├── Assignment-2/
+    ├── assignment-2/
     │   ├── 2a.py
     │   └── 2b.py
     │
