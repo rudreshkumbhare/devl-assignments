@@ -21,8 +21,6 @@ Programs focused on importing, exploring, and preprocessing datasets using Panda
 - **[2A — Dataset Exploration](assignment-2/2a.py):** Import CSV, Excel, and JSON datasets and explore their structure and statistics using Pandas.
 - **[2B — Data Preprocessing](assignment-2/2b.py):** Handle missing values, duplicates, outliers, categorical data, and feature scaling on a real-world dataset.
 
----
-
 ### Assignment 3 — Exploratory Data Analysis & Visualization
 
 Analyze datasets to understand patterns, statistics, and insights using Python visualization libraries.
