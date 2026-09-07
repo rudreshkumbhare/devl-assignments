@@ -32,6 +32,10 @@ Programs focused on importing, exploring, and preprocessing datasets using Panda
 
 ## ▶️ How to Run
 
+Run on notebook environments like Google Colab and Jupyter Notebook. (Easiest Approach)
+
+OR
+
 Make sure Python 3 is installed.
 
 Run any assignment using:
