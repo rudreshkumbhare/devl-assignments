@@ -18,14 +18,14 @@ Programs covering Python dictionaries, data structures, and basic matrix operati
 
 Programs focused on importing, exploring, and preprocessing datasets using Pandas.
 
-- **[2A — Dataset Exploration](assignment-2/2a.py):** Import CSV, Excel, and JSON datasets and explore their structure and statistics using Pandas.
-- **[2B — Data Preprocessing](assignment-2/2b.py):** Handle missing values, duplicates, outliers, categorical data, and feature scaling on a real-world dataset.
+- **[2A — Dataset Exploration](assignment-2/2a.py):** Analyze the Iris dataset using Pandas and Altair with data inspection, statistical summaries, grouping, and data cleaning.
+- **[2B — Data Preprocessing](assignment-2/2b.py):** Clean and preprocess a synthetic dataset using Pandas with missing-value handling, duplicate removal, outlier detection, and categorical encoding.
 
 ### Assignment 3 — Exploratory Data Analysis & Visualization
 
 Analyze datasets to understand patterns, statistics, and insights using Python visualization libraries.
 
-- **[3A — Exploratory Data Analysis](assignment-3/3a.py):** Perform summary statistics and univariate analysis on a dataset and identify key observations.
+- **[3A — Exploratory Data Analysis](assignment-3/3a.py):** Analyze the Titanic dataset using Pandas, Matplotlib, and Seaborn with data exploration and visualizations.
 - **[3B — Data Visualization](assignment-3/3b.py):** Explore the Iris dataset using Matplotlib and Seaborn with various plots.
 - **[3C — Data Visualization](assignment-3/3c.py):** Explore the Car Price dataset using Matplotlib and Seaborn with various plots and analysis.
 
@@ -35,6 +35,18 @@ Analyze datasets to understand patterns, statistics, and insights using Python v
 
 - **Language:** Python
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
+
+---
+
+## ⚠️ Before Running
+
+Some assignments use external dataset files. Before executing the programs, update the dataset file path in the code to match the location of the dataset on your system.
+
+For example:
+
+    df = pd.read_csv("path/to/your/dataset.csv")
+
+Replace "path/to/your/dataset.csv" with the actual path of your dataset file.
 
 ---
 
