@@ -26,7 +26,8 @@ Programs focused on importing, exploring, and preprocessing datasets using Panda
 Analyze datasets to understand patterns, statistics, and insights using Python visualization libraries.
 
 - **[3A — Exploratory Data Analysis](assignment-3/3a.py):** Perform summary statistics and univariate analysis on a dataset and identify key observations.
-- **[3B — Data Visualization](assignment-3/3b.py):** Explore the Iris dataset using Matplotlib and Seaborn with various plots and interpret the insights.
+- **[3B — Data Visualization](assignment-3/3b.py):** Explore the Iris dataset using Matplotlib and Seaborn with various plots.
+- **[3C — Data Visualization](assignment-3/3c.py):** Explore the Car Price dataset using Matplotlib and Seaborn with various plots and analysis.
 
 ---
 
