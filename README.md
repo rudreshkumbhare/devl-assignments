@@ -92,12 +92,15 @@ Install the required libraries using:
     │   ├── 2a.py
     │   └── 2b.py
     │
+    ├── assignment-3/
+    │   ├── 3a.py
+    │   ├── 3b.py
+    │   └── 3c.py
+    │
+    ├── assignment-4/
+    │   ├── 4a.py
+    │   └── 4b.py
+    │
     └── README.md
 
 ---
-
-## 🚀 Future Additions
-
-- Additional DEVL lab assignments
-- More Python programming exercises
-- Data analysis and visualization programs
