@@ -29,6 +29,13 @@ Analyze datasets to understand patterns, statistics, and insights using Python v
 - **[3B — Data Visualization](assignment-3/3b.py):** Explore the Iris dataset using Matplotlib and Seaborn with various plots.
 - **[3C — Data Visualization](assignment-3/3c.py):** Explore the Car Price dataset using Matplotlib and Seaborn with various plots and analysis.
 
+### Assignment 4 — Machine Learning
+
+Apply machine learning algorithms to predict house prices and classify diabetes using Python and Scikit-learn.
+
+- **[4A — House Price Prediction](assignment-4/4a.py):** Develop and compare Linear Regression and Polynomial Regression models using the Housing dataset. Evaluate performance using MAE, RMSE, and R² score, and visualize feature correlations using a heatmap.
+- **[4B — Diabetes Prediction](assignment-4/4b.py):** Develop a Logistic Regression model using the Diabetes dataset. Evaluate classification performance using Accuracy, Precision, Recall, and F1 Score.
+
 ---
 
 ## 🛠️ Tech Stack
